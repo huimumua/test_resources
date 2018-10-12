@@ -1,0 +1,12 @@
+BuiltIn£º
+http://robotframework.org/robotframework/latest/libraries/BuiltIn.html 
+
+
+Collections£º
+http://robotframework.org/robotframework/latest/libraries/Collections.html#Append%20To%20List 
+
+
+SeleniumLibrary£º
+ http://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#Close%20Browser 
+
+ 

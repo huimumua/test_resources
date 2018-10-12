@@ -1,0 +1,2 @@
+http://www.cnblogs.com/fnng/p/3160606.html   一系列的pythonwebdriver用法
+https://www.cnblogs.com/fnng/archive/2013/05/29/3106515.html   环境搭建
